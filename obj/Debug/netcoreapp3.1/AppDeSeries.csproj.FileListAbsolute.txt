@@ -1,0 +1,14 @@
+C:\DotNet_Workspace\AppDeSeries\bin\Debug\netcoreapp3.1\AppDeSeries.exe
+C:\DotNet_Workspace\AppDeSeries\bin\Debug\netcoreapp3.1\AppDeSeries.deps.json
+C:\DotNet_Workspace\AppDeSeries\bin\Debug\netcoreapp3.1\AppDeSeries.runtimeconfig.json
+C:\DotNet_Workspace\AppDeSeries\bin\Debug\netcoreapp3.1\AppDeSeries.runtimeconfig.dev.json
+C:\DotNet_Workspace\AppDeSeries\bin\Debug\netcoreapp3.1\AppDeSeries.dll
+C:\DotNet_Workspace\AppDeSeries\bin\Debug\netcoreapp3.1\AppDeSeries.pdb
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.csproj.AssemblyReference.cache
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.AssemblyInfoInputs.cache
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.AssemblyInfo.cs
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.csproj.CoreCompileInputs.cache
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.dll
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.pdb
+C:\DotNet_Workspace\AppDeSeries\obj\Debug\netcoreapp3.1\AppDeSeries.genruntimeconfig.cache

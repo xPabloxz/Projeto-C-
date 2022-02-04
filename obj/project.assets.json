@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNet_Workspace\\AppDeSeriesmeu\\DIO.Series.csproj",
-      "projectName": "DIO.Series",
-      "projectPath": "C:\\DotNet_Workspace\\AppDeSeriesmeu\\DIO.Series.csproj",
+      "projectUniqueName": "C:\\DotNet_Workspace\\AppDeSeries\\AppDeSeries.csproj",
+      "projectName": "AppDeSeries",
+      "projectPath": "C:\\DotNet_Workspace\\AppDeSeries\\AppDeSeries.csproj",
       "packagesPath": "C:\\Users\\pablo\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNet_Workspace\\AppDeSeriesmeu\\obj\\",
+      "outputPath": "C:\\DotNet_Workspace\\AppDeSeries\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pablo\\AppData\\Roaming\\NuGet\\NuGet.Config",

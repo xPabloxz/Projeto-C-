@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hh8aqrINqxb1DvnOW3b/T11l8cWWBoyMZPsiaEHAOYeB8evg0M29mMVvDd/WFPXJqsBRk9G/CpXDe6U9SmBpkQ==",
+  "dgSpecHash": "gl9jHS0CIgGmwWGBmrZkmIkVosSWJfZbB/3G8H4Q12y5WdrX7f2nGQqs9KpMLkwrHu7pxvmd6iR/lcBRKdEw9Q==",
   "success": true,
-  "projectFilePath": "C:\\DotNet_Workspace\\AppDeSeriesmeu\\DIO.Series.csproj",
+  "projectFilePath": "C:\\DotNet_Workspace\\AppDeSeries\\AppDeSeries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\pablo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

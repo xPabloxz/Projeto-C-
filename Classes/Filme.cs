@@ -4,52 +4,50 @@ namespace AppDeSeries
 {
     public class Filme : EntidadeBase
     {
-        // Atributos
-		private Genero Genero { get; set; }
-		private string Titulo { get; set; }
-		private string Descricao { get; set; }
-		private int Ano { get; set; }
+		private Genero GeneroFilme { get; set; }
+		private string TituloFilme { get; set; }
+		private string DescricaoFilme { get; set; }
+		private int AnoFilme { get; set; }
         
-        private bool Excluido {get; set;}
+        private bool ExcluidoFilme {get; set;}
 
-        // Métodos
-		public Filme(int id, Genero genero, string titulo, string descricao, int ano)
+		public Filme(int id2, Genero generofilme, string titulofilme, string descricaofilme, int anofilme)
 		{
-			this.Id = id;
-			this.Genero = genero;
-			this.Titulo = titulo;
-			this.Descricao = descricao;
-			this.Ano = ano;
-            this.Excluido = false;
+			this.Id2 = id2;
+			this.GeneroFilme = generofilme;
+			this.TituloFilme = titulofilme;
+			this.DescricaoFilme = descricaofilme;
+			this.AnoFilme = anofilme;
+            this.ExcluidoFilme = false;
 		}
 
         public override string ToString()
 		{
-			// Environment.NewLine https://docs.microsoft.com/en-us/dotnet/api/system.environment.newline?view=netcore-3.1
+			
             string retorno = "";
-            retorno += "Gênero: " + this.Genero + Environment.NewLine;
-            retorno += "Titulo: " + this.Titulo + Environment.NewLine;
-            retorno += "Descrição: " + this.Descricao + Environment.NewLine;
-            retorno += "Ano de Início: " + this.Ano + Environment.NewLine;
-            retorno += "Excluido: " + this.Excluido;
+            retorno += "Gênero: " + this.GeneroFilme + Environment.NewLine;
+            retorno += "Titulo: " + this.TituloFilme + Environment.NewLine;
+            retorno += "Descrição: " + this.DescricaoFilme + Environment.NewLine;
+            retorno += "Ano de Início: " + this.AnoFilme + Environment.NewLine;
+            retorno += "Excluido: " + this.ExcluidoFilme;
 			return retorno;
 		}
 
-        public string retornaTitulo()
+        public string retornaTituloFilme()
 		{
-			return this.Titulo;
+			return this.TituloFilme;
 		}
 
-		public int retornaId()
+		public int retornaId2()
 		{
-			return this.Id;
+			return this.Id2;
 		}
-        public bool retornaExcluido()
+        public bool retornaExcluidoFilme()
 		{
-			return this.Excluido;
+			return this.ExcluidoFilme;
 		}
-        public void Excluir() {
-            this.Excluido = true;
+        public void ExcluirFilme() {
+            this.ExcluidoFilme = true;
         }
     }
 }
